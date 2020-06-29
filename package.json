@@ -2,7 +2,7 @@
   "name": "morse_code",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://thomas-ln.github.io/morse-code/",
+  "homepage": "https://thomas-ln.github.io/morse-code/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.1",
     "@testing-library/jest-dom": "^4.2.4",
